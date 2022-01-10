@@ -1,5 +1,10 @@
 # Analyzing Stack Overflow Annual Developer Survey Data with MariaDB
 
+
+⚠️ **[UNMAINTAINED]** This repository has been moved and is currently maintained [here](https://github.com/mariadb-developers/columnstore-developer-survey-data). ⚠️
+
+<br />
+
 This repository provides data and information that will enable you to transform, import and analyze the [raw Stack Overflow Annual Developer Survey data](https://insights.stackoverflow.com/survey) with [MariaDB](https://mariadb.com) [ColumnStore](https://mariadb.com/docs/features/mariadb-columnstore/). 
 
 Starting at [Step 2, Parse and transform the data,](#parse-transform) this repository will walk you through the process of preparing, importing and, ultimately, being able to analyze the [raw Stack Overflow Annual Developer Survey data for 2020](https://drive.google.com/file/d/1dfGerWeWkcyQ9GX9x20rdSGj7WtEpzBB/view) (which is included in the [developer_survey_2020](developer_survey_2020) folder). 
